@@ -9,7 +9,7 @@ p{
 	background-color: antiquewhite;
 	padding: 20px;
 }
-paragraf_2{color: darkcyan; background-color: rgba(255, 255, 255, 0.5)}
+.paragraf_2{color: darkcyan; background-color: rgba(255, 255, 255, 0.5)}
 h1,h2{
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: cadetblue;	
@@ -19,7 +19,7 @@ span {color: rgb(255, 0, 255);}
 body{
 	background-image: url("slike/29.jpg");
 }
-drugapozadina{
+.drugapozadina{
 	background-color: darkgray;
 }
 a:link {
